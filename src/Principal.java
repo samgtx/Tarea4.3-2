@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Principal {
     public static void main(String[] args) throws MiExcepcion2 {
+        System.out.println("CAMBIO EN EL PROYECTO 2");
         Scanner sc = new Scanner(System.in);
         //Pedir nombre y, si no empieza por mayúscula salta MiExcepcion2
         System.out.println("Dime un nombre");
